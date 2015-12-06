@@ -1,0 +1,21 @@
+File - New - Java Project
+Project name - Finish
+
+Java panel (слева)
+ПКМ по папке src - New - Class
+Class name - Program
+чек-бокс public static void main
+
+///////////////////////////////////////////////////////////////////
+
+public class Program {
+	public static void main(String[] args) {
+		System.out.println("Hello Java world!"); // sysout
+	}
+}
+
+///////////////////////////////////////////////////////////////////
+
+для компиляции - Ctrl+F11.
+
+http://sotnyk.com/2011/10/09/rukovodstvo-po-eclipse-ide/

@@ -1,0 +1,7 @@
+http://docs.oracle.com/javase/8/docs/
+
+http://jexp.ru
+http://developer.alexanderklimov.ru/android/java/java.php
+http://www.vogella.com/tutorials.html
+http://habrahabr.ru/post/67777/
+http://www.quizful.net/test
